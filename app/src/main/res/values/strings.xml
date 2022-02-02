@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Recycler View Practice</string>
+    <string name="music_name">Music</string>
+    <string name="music_duration">01:10</string>
 </resources>
