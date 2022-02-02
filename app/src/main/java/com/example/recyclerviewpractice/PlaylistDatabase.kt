@@ -1,88 +1,88 @@
 package com.example.recyclerviewpractice
 
-class BancoDePlaylists {
-    fun loadItems(): List<PlaylistData> = listOf(
-        PlaylistData(
+class PlaylistDatabase {
+    fun loadItems(): List<Music> = listOf(
+        Music(
             name = "Music 1",
             duration = "02:51"
         ),
-        PlaylistData(
+        Music(
             name = "Music 2",
             duration = "03:23"
         ),
-        PlaylistData(
+        Music(
             name = "Music 3",
             duration = "05:29"
         ),
-        PlaylistData(
+        Music(
             name = "Music 4",
             duration = "06:23"
         ),
-        PlaylistData(
+        Music(
             name = "Music 5",
             duration = "03:25"
         ),
-        PlaylistData(
+        Music(
             name = "Music 6",
             duration = "02:25"
         ),
-        PlaylistData(
+        Music(
             name = "Music 7",
             duration = "03:25"
         ),
-        PlaylistData(
+        Music(
             name = "Music 8",
             duration = "02:45"
-        ),PlaylistData(
+        ),Music(
             name = "Music 9",
             duration = "02:27"
         ),
-        PlaylistData(
+        Music(
             name = "Music 10",
             duration = "02:26"
-        ),PlaylistData(
+        ),Music(
             name = "Music 11",
             duration = "02:13"
         ),
-        PlaylistData(
+        Music(
             name = "Music 12",
             duration = "02:51"
         ),
-        PlaylistData(
+        Music(
             name = "Music 13",
             duration = "03:23"
         ),
-        PlaylistData(
+        Music(
             name = "Music 14",
             duration = "05:29"
         ),
-        PlaylistData(
+        Music(
             name = "Music 15",
             duration = "06:15"
         ),
-        PlaylistData(
+        Music(
             name = "Music 16",
             duration = "03:11"
         ),
-        PlaylistData(
+        Music(
             name = "Music 17",
             duration = "02:31"
         ),
-        PlaylistData(
+        Music(
             name = "Music 18",
             duration = "03:25"
         ),
-        PlaylistData(
+        Music(
             name = "Music 19",
             duration = "05:05"
-        ),PlaylistData(
+        ),Music(
             name = "Music 20",
             duration = "01:58"
         ),
-        PlaylistData(
+        Music(
             name = "Music 21",
             duration = "03:26"
-        ),PlaylistData(
+        ),Music(
             name = "Music 22",
             duration = "04:13"
         ),
